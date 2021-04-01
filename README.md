@@ -1,2 +1,2 @@
-# Codigo-fonte-da-freestyle-dash
+# Código fonte da freestyle dash
 É só forquear esse projeto caso tenha interesse
